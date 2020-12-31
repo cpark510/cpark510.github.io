@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Literature Reviews"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "cpark510"
-description              : "An amazing website."
+description              : "A blog for Review"
 url                      : "https://cpark510.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cpark510/cpark510.github.io"
@@ -96,7 +96,7 @@ author:
   name             : "Chan Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"
